@@ -4,6 +4,9 @@ A clean and simple single-page personal website for Leon showcasing services, po
 ## Screenshot
 ![Leon Screenshot](./assets/images/screenshote.png)
 
+## Demo
+https://leon-portoflio.netlify.app/
+
 ## Features
 - Single-page layout with sections: Home, Services, Portfolio (Gallery), About, Contact
 - Responsive design for mobile and desktop
@@ -21,6 +24,6 @@ A clean and simple single-page personal website for Leon showcasing services, po
 
 ## How To Run Locally
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/leon-portfolio.git
+git clone https://github.com/Abdalrahman-Zatary/leon-portfolio.git
 cd leon-portfolio
 open index.html
